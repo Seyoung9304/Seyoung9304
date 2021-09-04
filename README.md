@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-
-- 🌱 I’m currently learning Deep Learning - Computer Vision
+<p align="left">🌱 I’m currently learning Deep Learning - Computer Vision </p>
 
 
 <h3 align = "center">💻Tech Stack💻</h3>
