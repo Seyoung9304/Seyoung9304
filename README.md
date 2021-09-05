@@ -36,7 +36,10 @@
   
   
 <h3>My GitHub Stat</h3>
- ![Seyoung's github stats](https://github-readme-stats.vercel.app/api?username=Seyoung9304)
+ 
+ [![Seyoung's GitHub stats](https://github-readme-stats.vercel.app/api?username=Seyoung9304)](https://github.com/anuraghazra/github-readme-stats)
+
  
  
- (Github-readme-stats.vercel.app/api/top-langs/?username=Seyoung9304&langs_count=8)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Seyoung9304)](https://github.com/anuraghazra/github-readme-stats)
+
