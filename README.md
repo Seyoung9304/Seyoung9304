@@ -38,4 +38,4 @@
   
   
 <h3>My GitHub Stat</h3>
- [![Seyoung's github stats](https://github-readme-stats.vercel.app/api?username=Seyoung9304)](https://github.com/anuraghazra/github-readme-stats)
+ [![Seyoung's github stats](https://github-readme-stats.vercel.app/api?username=Seyoung9304)]
