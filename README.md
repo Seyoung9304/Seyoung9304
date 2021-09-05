@@ -39,3 +39,6 @@
   
 <h3>My GitHub Stat</h3>
  [![Seyoung's github stats](https://github-readme-stats.vercel.app/api?username=Seyoung9304)]
+ 
+ 
+ github-readme-stats.vercel.app/api/top-langs/?username=Seyoung9304&langs_count=8
