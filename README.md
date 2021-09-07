@@ -1,4 +1,4 @@
-## Hi there ! 🌱 Currently learning Deep Learning - CV 
+##  Currently learning Deep Learning - CV 
 
 <h3 >💻Tech Stack💻</h3>
 <p> Techs that I've used at least once </p>
