@@ -1,6 +1,6 @@
 ##  Currently learning Deep Learning - CV 
 
-
+### Check out my resume <a href="https://say-young.notion.site/Resume-fa8b2bbc93c9466f87df29fc524a44d0">here</a> !
 
 <h3>🙌Contact🙌</h3>
 <a href="www.linkedin.com/in/seyoung-kim-097103207" target="_blank">
