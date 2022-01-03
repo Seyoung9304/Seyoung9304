@@ -4,13 +4,9 @@
 - Software major student at SungKyunKwan University
 - Learning & Interested in Deep Learning - Computer Vision
 
-### Interests
-- Autonomous Driving
-- AI in Medicine
-- Edu-Tech
 
 ### For more information,
-- <a href="https://say-young.notion.site/Resume-fa8b2bbc93c9466f87df29fc524a44d0">resume</a>
+- <a href="https://say-young.notion.site/Resume-fa8b2bbc93c9466f87df29fc524a44d0">esume</a>
 
 
 
