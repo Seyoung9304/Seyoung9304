@@ -6,7 +6,7 @@
 
 
 ### For more information,
-- <a href="https://say-young.notion.site/Resume-fa8b2bbc93c9466f87df29fc524a44d0">Resume</a>
+- <a href="https://say-young.notion.site/Resume-for-GitHub-df69fbfcd63849268896c74afe3ebc1f">Resume (Korean)</a>
 
 
 
