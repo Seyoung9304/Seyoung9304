@@ -10,22 +10,6 @@
 
 
 
-
-
-## 👨‍💻 Tech Stack
-### Programming
-- C/C++, Python, JAVA
-- Pytorch, Pandas, Matplotlib
-- SQL, Firebase, JavaScript, Node.js
-### IDE
- VSCode, Pycharm, VIM, Git, Eclipse, Android Studio
-### Logging
-WandB, Git/GitHub, Tensorboard, Notion
-
-
-
-
-
 ## 👀 Contact
 - seftware99@gmail.com
 
