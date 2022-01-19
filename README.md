@@ -7,7 +7,7 @@
 
 ### For more information,
 - <a href="https://say-young.notion.site/Resume-for-GitHub-df69fbfcd63849268896c74afe3ebc1f">Resume (Korean)</a>
-
+- <a href="https://velog.io/@dd9s2">Blog</a>
 
 
 ## 👀 Contact
