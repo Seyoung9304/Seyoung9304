@@ -2,7 +2,7 @@
 
 ### Currently
 - Software major undergraduate @ SKKU
-- Learning & Interested in AI - Computer Vision, Recommendation System
+- Learning & Interested in AI - **Computer Vision, Recommendation System**
 
 
 ### For more information,
