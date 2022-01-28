@@ -1,8 +1,8 @@
 ## 🙋‍♀️ About Me
 
 ### Currently
-- Software major student at SungKyunKwan University
-- Learning & Interested in Deep Learning - Computer Vision
+- Software major undergraduate @ SKKU
+- Learning & Interested in AI - Computer Vision, Recommendation System
 
 
 ### For more information,
