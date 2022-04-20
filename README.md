@@ -1,8 +1,8 @@
 ## 🙋‍♀️ About Me
 
 ### Currently
+- Studying **Computer Vision - Optical Flow**
 - Software major undergraduate @ SKKU
-- Learning & Interested in AI - **Computer Vision, Recommendation System**
 - Interested in creating **social values**
 
 
