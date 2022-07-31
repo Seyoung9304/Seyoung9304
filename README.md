@@ -1,8 +1,10 @@
 ## 🙋‍♀️ About Me
+Deep Learning, Machine Learning, Computer Vision
 
 ### Currently
-- Studying **Computer Vision - Optical Flow**
+- Studying **Multi-modal, Contrastive, Continual Learning**
 - Software major undergraduate @ SKKU
+- Undergraduate research intern @ M.IN.D Lab
 - Interested in creating **social values**
 
 
