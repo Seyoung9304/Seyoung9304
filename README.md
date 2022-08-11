@@ -2,7 +2,7 @@
 Deep Learning, Machine Learning, Computer Vision
 
 ### Currently
-- Studying **Multi-modal, Contrastive, Continual Learning**
+- Studying **Multi-modal, Contrastive Learning**
 - Software major undergraduate @ SKKU
 - Undergraduate research intern @ M.IN.D Lab
 - Interested in creating **social values**
