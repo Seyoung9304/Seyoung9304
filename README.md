@@ -1,10 +1,10 @@
 ## 🙋‍♀️ About Me
-Deep Learning, Machine Learning, Computer Vision
+_Deep Learning, Machine Learning, Computer Vision_
 
-### Currently
-- Studying **Multi-modal, Contrastive Learning**
-- Software major undergraduate @ SKKU
+- Autonomous driving researcher @ HYUNDAI MOTOR COMPANY 🚗
+- Bachelor of Science in Software @ SKKU
 - Undergraduate research intern @ M.IN.D Lab
+- Intern software engineer @ Samsung Electronics, S.LSI
 - Interested in creating **social values**
 
 
