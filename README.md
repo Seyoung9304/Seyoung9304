@@ -10,6 +10,7 @@ _Deep Learning, Machine Learning, Computer Vision_
 
 ### For more information,
 - <a href="https://velog.io/@dd9s2">Blog</a>
+- <a href="https://www.linkedin.com/in/seyoung-kim-097103207">LinkedIn</a>
 - <a href="https://say-young.notion.site/Resume-2022-05-ver-8422de76a258482f8af0a20e7aa1134d">Resume</a>
 
 
