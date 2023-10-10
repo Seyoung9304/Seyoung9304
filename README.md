@@ -2,6 +2,8 @@
 _Deep Learning, Machine Learning, Computer Vision_
 
 - Autonomous driving researcher @ HYUNDAI MOTOR COMPANY 🚗
+    - Semantic Segmentation
+    - Data Engineering
 - Bachelor of Science in Software @ SKKU
 - Undergraduate research intern @ SNU, M.IN.D Lab
 - Internship trainee (Software engineer) @ Samsung Electronics, S.LSI
