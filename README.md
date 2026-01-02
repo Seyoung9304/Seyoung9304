@@ -1,5 +1,5 @@
 ## 🙋‍♀️ About Me
-_Deep Learning, Machine Learning, Computer Vision_
+_Computer Vision, Data Engineering_
 
 - Autonomous driving researcher @ HYUNDAI MOTOR COMPANY 🚗
     - Semantic Segmentation
